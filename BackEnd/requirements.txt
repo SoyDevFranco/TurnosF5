@@ -1,0 +1,11 @@
+fastapi==0.115.3
+uvicorn==0.32.0
+SQLAlchemy==2.0.36
+pydantic==2.9.2
+firebase-admin==6.5.0
+PyJWT==2.9.0
+python-dotenv==1.0.1
+mercadopago==2.2.3
+mysql-connector-python
+python-jose==3.3.0  
+apscheduler==3.10.1 
